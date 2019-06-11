@@ -20,7 +20,7 @@
     "promise-polyfill": "^8.1.0",
     "del": "^3.0.0",
     "requirejs": "^2.3.6",
-    "text": "requirejs/text#latest",
+    "text": "github:requirejs/text#latest",
     "gulp-typescript": "^5.0.0",
     "gulp-tslint": "^8.1.4",
     "merge2": "^1.2.3",
@@ -95,5 +95,11 @@
       "text",
       "html"
     ]
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "author": ""
 }
