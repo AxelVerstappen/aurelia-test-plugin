@@ -1,0 +1,10 @@
+{
+  "name": "aurelia-test-plugin",
+  "version": "1.0.0",
+  "dependencies": {
+    "subfolder": "file:subfolder"
+  },
+  "files": [
+    "subfolder"
+  ]
+}
