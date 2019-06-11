@@ -2,7 +2,7 @@
   "name": "aurelia-test-plugin",
   "version": "1.0.0",
   "dependencies": {
-    "@aurelia-test-plugin/test-plugin": "file:subfolder"
+    "test-plugin": "file:subfolder"
   },
   "files": [
     "subfolder"
