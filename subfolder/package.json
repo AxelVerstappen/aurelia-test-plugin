@@ -1,5 +1,5 @@
 {
-  "name": "subfolder",
+  "name": "@aurelia-test-plugin/subfolder",
   "description": "An Aurelia plugin project.",
   "version": "0.1.0",
   "repository": {
